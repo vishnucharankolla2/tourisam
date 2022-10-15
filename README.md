@@ -36,21 +36,4 @@ Azure Static Web Apps Service, Azure Resource Manager.
 
 ## Other Azure Technologies : ***App Service*** ##
 
-# photos  📸 #
-### ***Home page -*** ###
-
-![image](https://raw.githubusercontent.com/Premsagar6/travelling/main/images/images/banner5.jpg)
-
-### ***Touristers*** ###
-
-![image](https://raw.githubusercontent.com/Premsagar6/tourister/84a327178858b6fdfee5336dbd69abbc0cbee0d6/images/images/ab1.jpg)
-![image](https://raw.githubusercontent.com/Premsagar6/tourister/84a327178858b6fdfee5336dbd69abbc0cbee0d6/images/images/g2.jpg)
-![image](https://raw.githubusercontent.com/Premsagar6/tourister/84a327178858b6fdfee5336dbd69abbc0cbee0d6/images/images/s1.jpg)
-
-
-
-### ***Our Places-*** ###
-
-![image](https://user-images.githubusercontent.com/86942586/179418597-9f8dc0f3-6389-405b-9780-81bd9674cb22.png)
-
-![image](https://user-images.githubusercontent.com/86942586/179370346-00c1ed2d-792b-4a59-af85-c26eb607aac2.png)
+ nt.com/86942586/179370346-00c1ed2d-792b-4a59-af85-c26eb607aac2.png)
